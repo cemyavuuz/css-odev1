@@ -1,0 +1,55 @@
+#ul-navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 700px;
+  margin-top: 100px;
+}
+
+#li-navbar {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 12px 14px;
+  background-color: crimson;
+}
+
+#article1{
+  color: darkcyan;
+  margin-left: 400px;
+
+}
+#article1 h1{
+  margin-left: 430px;
+}
+#article1 p{
+  margin-left: 0px;
+}
+#article2{
+  color:brown;
+  margin-left: 400px;
+
+}
+#article2 h1{
+  margin-left: 400px;
+}
+#ul-kategori{
+  margin-left: 420px;
+}
+#ul1-kategori{
+  margin-left: 300px;
+}
+address {
+  margin-left: 300px;
+}
+#ol-navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 700px;
+  margin-top: 100px;
+}
